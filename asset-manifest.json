@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sadl_cfa/static/css/main.5f7c5059.css",
+    "main.js": "/sadl_cfa/static/js/main.84a0e99d.js",
+    "static/js/453.24979191.chunk.js": "/sadl_cfa/static/js/453.24979191.chunk.js",
+    "index.html": "/sadl_cfa/index.html",
+    "main.5f7c5059.css.map": "/sadl_cfa/static/css/main.5f7c5059.css.map",
+    "main.84a0e99d.js.map": "/sadl_cfa/static/js/main.84a0e99d.js.map",
+    "453.24979191.chunk.js.map": "/sadl_cfa/static/js/453.24979191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7c5059.css",
+    "static/js/main.84a0e99d.js"
+  ]
+}
